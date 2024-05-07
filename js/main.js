@@ -11,15 +11,11 @@ $('form').validate({
             required: true,
             email: true
         },
-        telefone: {
-            required: true
-        },
         
     },
     messages: {
         nome: 'Por favor ensira o seu nome',
         email: 'Por favor ensira o seu e-mail',
-        telefone: 'Por favor ensira o seu telefone',
         
     },
     submitHandler: function(form){
