@@ -8,7 +8,8 @@ $('form').validate({
         },
 
         email: {
-            required: true
+            required: true,
+            email: true
         },
         
     },
