@@ -48,6 +48,10 @@ body {
     color: #F5F5F5;
 }
 
+.nav-cardapio {
+    margin-bottom: 50px;
+}
+
 .nav-cardapio .nav-link:hover {
     color:#5B3427;
 }
